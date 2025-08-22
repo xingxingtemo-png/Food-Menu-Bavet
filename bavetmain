@@ -1,0 +1,5 @@
+my-website/
+ ├── index.html
+ ├── css/        (optional if you separate your style later)
+ ├── js/         (optional if you separate your script later)
+ └── images/     (optional for your own local images)
